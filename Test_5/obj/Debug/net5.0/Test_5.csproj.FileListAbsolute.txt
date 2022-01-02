@@ -1,0 +1,16 @@
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/Test_5
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/Test_5.deps.json
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/Test_5.runtimeconfig.json
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/Test_5.runtimeconfig.dev.json
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/Test_5.dll
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/ref/Test_5.dll
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/bin/Debug/net5.0/Test_5.pdb
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.csproj.AssemblyReference.cache
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.AssemblyInfoInputs.cache
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.AssemblyInfo.cs
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.csproj.CoreCompileInputs.cache
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.dll
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/ref/Test_5.dll
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.pdb
+/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_5/obj/Debug/net5.0/Test_5.genruntimeconfig.cache

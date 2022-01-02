@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "kk+ubJZuEIlUONKUjmH+fbgHmFKgzAYV6/FJh4a/2nnR4/5u1qvBhJ6uQfY5VYlr6AOIrO3rIzTyI25zoxJReg==",
+  "success": true,
+  "projectFilePath": "/home/alaedin/Dev/dotnet-examples/csharp-examples/Testing/Test_3/Test_3.csproj",
+  "expectedPackageFiles": [
+    "/home/alaedin/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/microsoft.codecoverage/17.1.0-preview-20211109-03/microsoft.codecoverage.17.1.0-preview-20211109-03.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/microsoft.net.test.sdk/17.1.0-preview-20211109-03/microsoft.net.test.sdk.17.1.0-preview-20211109-03.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/microsoft.testplatform.objectmodel/17.1.0-preview-20211109-03/microsoft.testplatform.objectmodel.17.1.0-preview-20211109-03.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/microsoft.testplatform.testhost/17.1.0-preview-20211109-03/microsoft.testplatform.testhost.17.1.0-preview-20211109-03.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/nunit3testadapter/4.1.0/nunit3testadapter.4.1.0.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/selenium.support/4.0.1/selenium.support.4.0.1.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/selenium.webdriver/4.0.1/selenium.webdriver.4.0.1.nupkg.sha512",
+    "/home/alaedin/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
